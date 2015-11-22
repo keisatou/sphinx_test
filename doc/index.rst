@@ -11,6 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. automodule:: sphinx_test.app
+  :members:
+
 
 
 Indices and tables
