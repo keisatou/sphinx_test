@@ -1,7 +1,7 @@
 def hello(name = 'keisatou'):
     """say hello to name
 
-    :param string name: name of person to say hello to. Default is "keisatou".
+    :param str name: name of person to say hello to. Default is "keisatou".
     :return: None
     :rtype: None
     """
