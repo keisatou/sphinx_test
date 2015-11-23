@@ -3,16 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Test Documentation's documentation!
+Welcome to sphinx_test's documentation!
 ==============================================
 
-Contents:
+.. autosummary::
+  :toctree: generated
 
-.. toctree::
-   :maxdepth: 2
-
-.. automodule:: sphinx_test.app
-  :members:
+  sphinx_test.app
+  sphinx_test.util
 
 Examples
 =========
