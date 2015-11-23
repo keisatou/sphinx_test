@@ -18,8 +18,6 @@ Examples
 =========
 
 This is a usage of :func:`sphinx_test.app.hello`
-.. code-block::python
-  :linenos
 
   >>> import sphinx_test.app
   >>> sphinx_test.app.hello()
