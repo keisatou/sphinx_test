@@ -6,6 +6,7 @@ def hello(name = 'keisatou'):
     :rtype: None
 
     For example:
+
     >>> import sphinx_test.app
     >>> sphinx_test.app.hello()
     hello, keisatou!
