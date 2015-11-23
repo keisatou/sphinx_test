@@ -4,6 +4,13 @@ def hello(name = 'keisatou'):
     :param str name: name of person to say hello to. Default is "keisatou".
     :return: None
     :rtype: None
+
+    For example:
+    >>> import sphinx_test.app
+    >>> sphinx_test.app.hello()
+    hello, keisatou!
+    >>> sphinx_test.app.hello('world')
+    hello, world!
     """
     print("hello, {0}!".format(name))
 
